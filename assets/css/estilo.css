@@ -1,3 +1,10 @@
+/*
+| add(css): Atualizar
+| refactor(css): Atualizar
+| rm(css): Atualizar
+*/
+
+
 * {
     font-family: 'Roboto', 'sans-serif';
     box-sizing: border-box;
@@ -23,7 +30,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 10px;
+    padding-bottom: 10px;
+    z-index: 1;
+    box-shadow: 0px 4px 9px -2px rgba(0, 0, 0, 0.75);
+
 
 
 }
@@ -31,9 +41,7 @@ body {
 .cabecalho>h1 {
     margin: 0px;
     font-weight: 300;
-    font-size: 1.8rem;
-    z-index: 1;
-    box-shadow: 0px 4px 9px -2px rgba(0, 0, 0, 0.75);
+    font-size: 2.8rem;
 }
 
 .cabecalho>h2 {
@@ -69,5 +77,12 @@ body {
     font-size: 1.2rem;
     padding-right: 20px;
     color: #444;
+
+}
+
+.modulos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 
 }
