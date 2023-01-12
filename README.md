@@ -12,5 +12,10 @@
 ## Revisão HTML & CSS
 - :white_check_mark: Introdução do Módulo
 - :white_check_mark: Estrutura do Template dos Exercícios
+- :white_check_mark: CSS Grid
+- :white_check_mark: Cabecalho
+- :white_check_mark: Rodapé
+- :white_check_mark: Conteúdo
+
 
 
